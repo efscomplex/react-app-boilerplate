@@ -1,14 +1,11 @@
 {
 	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "..\\..\\..\\..\\Escritorio\\proves"
-		},
-		{
-			"path": "..\\..\\full-stack-login"
-		}
-	],
+      {
+         "path": "."
+      },
+      {
+         "path": "..\\..\\full-stack-login"
+      }
+   ],
    "settings": {}
 }
